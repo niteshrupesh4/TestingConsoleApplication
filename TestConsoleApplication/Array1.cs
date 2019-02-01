@@ -19,11 +19,14 @@ namespace TestConsoleApplication
             {
                 Console.Write(item+", ");
             }
+
             Console.WriteLine();
+
             for (int i = ar.Length-1; i >= 0; i--)
             {
                 Console.Write(ar[i] + ", ");
             }
+
             int temp;
             for (int i = 0; i < ar.Length; i++)
             {
@@ -37,13 +40,17 @@ namespace TestConsoleApplication
                     }
                 }
             }
+
             Console.WriteLine();
+
             int[] arr = new int[20];
             Array.Copy(ar, arr, ar.Length-2);
+
             foreach (var item in arr)
             {
                 Console.Write(item + ", ");
             }
+
             Console.ReadKey();
         }
     }
