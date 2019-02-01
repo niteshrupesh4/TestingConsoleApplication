@@ -1,0 +1,24 @@
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe.config
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.exe
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.pdb
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe.config
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.exe
+D:\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.pdb
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe.config
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.exe
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.pdb
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csprojResolveAssemblyReference.cache
