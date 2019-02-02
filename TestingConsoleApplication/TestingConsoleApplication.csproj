@@ -71,6 +71,7 @@
     <Compile Include="Test1.cs" />
     <Compile Include="Test2.cs" />
     <Compile Include="TestExtantionMethod.cs" />
+    <Compile Include="XmlFileReader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
