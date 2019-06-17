@@ -15,6 +15,10 @@ namespace TestingConsoleApplication
             Console.WriteLine("protected constructor is called");
         }
 
+        public ConstructorStatic(int i):this()
+        {
+            Console.WriteLine("parameter constructor is called");
+        }
         static ConstructorStatic()
         {
             Console.WriteLine("Satatic constructor is called");
@@ -27,8 +31,8 @@ namespace TestingConsoleApplication
         public static void Main(string[] args)
         {
             int m;
-            ConstructorStatic ob = new ConstructorStatic();
-            ConstructorStatic obj1 = ob;
+            ConstructorStatic ob = new ConstructorStatic(10);
+            //ConstructorStatic obj1 = ob;
             Console.ReadKey();
         }
     }

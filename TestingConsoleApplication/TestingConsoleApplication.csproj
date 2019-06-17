@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TestingConsoleApplication.InterfaceDemo</StartupObject>
+    <StartupObject>TestingConsoleApplication.DecimaltoBinary</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
@@ -55,6 +55,7 @@
     <Compile Include="ArrayVSArrayList.cs" />
     <Compile Include="ConstructorStatic.cs" />
     <Compile Include="CopyConstructor.cs" />
+    <Compile Include="DecimaltoBinary.cs" />
     <Compile Include="Delegate.cs" />
     <Compile Include="ExeptionExample.cs" />
     <Compile Include="GenericDelegates.cs" />
