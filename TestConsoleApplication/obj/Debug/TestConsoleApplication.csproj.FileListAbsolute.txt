@@ -7,7 +7,6 @@ D:\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\TestingConsol
 D:\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\Newtonsoft.Json.dll
 D:\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
 D:\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\Newtonsoft.Json.xml
-D:\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
 D:\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
 D:\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
 D:\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
@@ -28,3 +27,7 @@ D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplicatio
 D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
 D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\Newtonsoft.Json.xml
 D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Demo\TestingConsoleApplication\TestConsoleApplication\bin\Debug\TestingConsoleApplication.exe.config
+D:\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+D:\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Demo\TestingConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
