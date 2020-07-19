@@ -24,3 +24,13 @@ D:\Nitesh Share\Nitesh Data\Demo\TestingConsoleApplication\TestingConsoleApplica
 D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csprojAssemblyReference.cache
 D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csproj.CoreCompileInputs.cache
 D:\Demo\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csproj.CopyComplete
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe.config
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.exe
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\TestingConsoleApplication.pdb
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csprojAssemblyReference.cache
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.csproj.CopyComplete
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.exe
+C:\Projects\Development\TestingConsoleApplication\TestingConsoleApplication\obj\Debug\TestingConsoleApplication.pdb
